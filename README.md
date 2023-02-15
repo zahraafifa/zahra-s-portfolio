@@ -17,6 +17,13 @@ Menguji tiga hipotesis:
 'time' — lama waktu lagu tersebut diputar
 'Day' — hari dalam seminggu
 
+# Tahapan
+
+Proyek ini akan terdiri dari tiga tahap:
+ 1. Ikhtisar Data
+ 2. Pra-pemrosesan Data
+ 3. Pengujian hipotesis
+
 # Library
 
 pandas
