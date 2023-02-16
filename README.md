@@ -1,17 +1,24 @@
-# zahra-s-portfolio
+# Proyek Practicum 3: Faktor Apa Saja Yang Menjual Sebuah Mobil
 
-# [Proyek Practicum 1: Membandingkan preferensi musik di Springfield dan Shelbyville](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project---1)
+# Tujuan:
 
-Proyek ini merupakan proyek pertama dalam Bootcamp Practicum. Tujuan dari proyek ini adalah mengetahui preferensi musik di Springfield dan Shelbyville.
+Tujuan dari proyek ini yaitu untuk mengetahui apa saja faktor yang mempengaruhi harga dari kendaraan melalui eksplorasi data analisis dan visualisasi data
 
-- Data telah disediakan oleh Practicum
-- Pra-pemrosesan data dilakukan dengan library pandas
-- Terdapat 3 tahapan dalam proyek ini yaitu: Ikhtisar data, Pra-pemrosesan data, dan pengujian hipotesis
+# Data:
 
-# [Proyek Practicum 2: Menganalisis Risiko Gagal Bayar Nasabah Bank](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project---2)
+- price
+- model_year
+- model
+- condition
+- cylinders
+- fuel — gas, disel, dan lain-lain.
+- odometer — jarak tempuh kendaraan saat iklan ditayangkan
+- transmission
+- paint_color
+- is_4wd — apakah kendaraan memiliki penggerak 4 roda (tipe Boolean)
+- date_posted — tanggal iklan ditayangkan
+- days_listed — jumlah hari iklan ditayangkan hingga dihapus
 
-Tujuan dari proyek ini yaitu untuk mengetahui pengaruh faktor apa saja yang berpengaruh terhadap probabilitas gagal bayar dalam pelunasan pinjaman. 
+# Libraries:
 
-- Data telah disediakan oleh Practicum
-- Pra-pemrosesan data dilakukan dengan library pandas
-- Terdapat 3 tahapan dalam proyek ini yaitu: Ikhtisar data, Pra-pemrosesan data, dan pengujian hipotesis
+matplotlib, pandas
