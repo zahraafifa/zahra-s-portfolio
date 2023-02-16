@@ -15,3 +15,12 @@ Tujuan dari proyek ini yaitu untuk mengetahui pengaruh faktor apa saja yang berp
 - Data telah disediakan oleh Practicum
 - Pra-pemrosesan data dilakukan dengan library pandas
 - Terdapat 3 tahapan dalam proyek ini yaitu: Ikhtisar data, Pra-pemrosesan data, dan pengujian hipotesis
+
+# [Proyek Practicum 3: Faktor Apa Saja Yang Menjual Sebuah Mobil](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project---3)
+
+Tujuan dari proyek ini yaitu untuk mengetahui apa saja faktor yang mempengaruhi harga dari kendaraan melalui eksplorasi data analisis dan visualisasi data.
+
+- Data telah disediakan oleh Practicum
+- Pra-pemrosesan data dilakukan dengan library matplotlib dan pandas
+- Terdapat 4 tahapan dalam proyek ini yaitu: Ikhtisar data, pemrosesan data, visualisasi data, dan pengujian hipotesis
+
