@@ -1,9 +1,24 @@
-# zahra-s-portfolio
+# Proyek Practicum 2: Menganalisis Risiko Gagal Bayar Nasabah Bank
 
-# [Proyek Practicum 1: Membandingkan preferensi musik di Springfield dan Shelbyville](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project---1)
+# Tujuan:
 
-Proyek ini merupakan proyek pertama dalam Bootcamp Practicum. Tujuan dari proyek ini adalah mengetahui preferensi musik di Springfield dan Shelbyville.
+Mengetahui pengaruh status perkawinan seorang nasabah dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam pelunasan pinjaman.
 
-- Data telah disediakan oleh Practicum
-- Pra-pemrosesan data dilakukan dengan library pandas
-- Terdapat 3 tahapan dalam proyek ini yaitu: Ikhtisar data, Pra-pemrosesan data, dan pengujian hipotesis
+# Data:
+
+- children : jumlah anak dalam keluarga
+- days_employed: berapa lama nasabah telah bekerja
+- dob_years: usia nasabah
+- education: tingkat pendidikan nasabah
+- educationid: pengidentifikasi untuk tingkat pendidikan nasabah
+- family_status: status perkawinan nasabah
+- family_status_id: pengidentifikasi untuk status perkawinan nasabah
+- gender: jenis kelamin nasabah
+- income_type: jenis pendapatan nasabah
+- debt: apakah nasabah pernah melakukan gagal bayar pinjaman
+- total_income: pendapatan bulanan
+- purpose: alasan mengambil pinjaman
+
+# Library:
+
+pandas
