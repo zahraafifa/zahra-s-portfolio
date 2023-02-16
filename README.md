@@ -1,4 +1,4 @@
-# Projek Practicum 1: Membandingkan preferensi musik di Springfield dan Shelbyville
+# Proyek Practicum 1: Membandingkan preferensi musik di Springfield dan Shelbyville
 
 # Tujuan:
 
