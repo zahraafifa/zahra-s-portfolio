@@ -2,7 +2,7 @@
 
 # Tujuan:
 
-Mengetahui pengaruh status perkawinan seorang nasabah dan jumlah anak yang dimilikinya terhadap probabilitas gagal bayar dalam pelunasan pinjaman.
+Mengetahui faktor-faktor yang dapat mempengaruhi probabilitas gagal bayar dalam pelunasan pinjaman.
 
 # Data:
 
