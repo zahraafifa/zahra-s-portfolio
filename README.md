@@ -30,7 +30,7 @@ Tujuan dari proyek ini yaitu untuk menganalisis perilaku para pengguna, lalu men
 - Rata-rata pendapatan dari pengguna paket telepon Ultimate dan Surf berbeda.
 - Rata-rata pendapatan dari pengguna di wilayah NY-NJ berbeda dengan pendapatan pengguna dari wilayah lain.
 
-Library yang digunakan : pandas, matplotlib, numpy, seaborn
+Library yang digunakan : pandas, matplotlib, numpy, seaborn, scipy
 
 Tahapan dari proyek ini yaitu:
 1. Pra-Pemrosesan Data
