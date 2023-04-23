@@ -24,7 +24,7 @@ Tujuan dari proyek ini yaitu untuk mengetahui apa saja faktor yang mempengaruhi 
 - Pra-pemrosesan data dilakukan dengan library matplotlib dan pandas
 - Terdapat 4 tahapan dalam proyek ini yaitu: Ikhtisar data, pemrosesan data, eksplorasi data analisis, dan kesimpulan
 
-# [Proyek Practicum 4: Paket Prabayar Manakah yang Lebih Baik?](http)
+# [Proyek Practicum 4: Paket Prabayar Manakah yang Lebih Baik?](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project-4)
 
 Tujuan dari proyek ini yaitu untuk menganalisis perilaku para pengguna, lalu menentukan paket prabayar manakah yang lebih menguntungkan dan menguji hipotesis berikut ini:
 - Rata-rata pendapatan dari pengguna paket telepon Ultimate dan Surf berbeda.
