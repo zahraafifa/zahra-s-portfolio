@@ -1,4 +1,4 @@
-# Proyek Practicum 4: Paket Prabayar Manakah yang Lebih Baik?
+# Proyek Practicum 4: Paket Prabayar Manakah yang Lebih Menguntungkan
 
 # Tujuan:
 
@@ -55,7 +55,7 @@ Tabel plans (data paket telepon):
 
 # Libraries:
 
-matplotlib, pandas, seaborn, numpy
+matplotlib, pandas, seaborn, numpy, scipy
 
 # Tahapan:
 
