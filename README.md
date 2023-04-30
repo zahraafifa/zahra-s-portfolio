@@ -37,5 +37,17 @@ Tahapan dari proyek ini yaitu:
 2. Eksplorasi Data Analisis
 3. Analisis Data Statistik
 
+# [Proyek Practicum 5: Analisis Game yang Memiliki Potensi untuk Berhasil](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project-5)
 
+Tujuan dari proyek ini yaitu untuk menentukan jenis games seperti apa yang akan berpotensi untung menguntungkan di tahun 2017 dan menguji hipotesis berikut ini:
+
+- Rata-rata rating pengguna platform Xbox One dan PC adalah sama.
+- Rata-rata rating pengguna genre Action dan Sports berbeda.
+
+Library yang digunakan : pandas, matplotlib, numpy, seaborn, scipy
+
+Tahapan dari proyek ini yaitu:
+1. Pra-Pemrosesan Data
+2. Eksplorasi Data Analisis
+3. Analisis Data Statistik
 
