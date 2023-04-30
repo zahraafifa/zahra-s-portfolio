@@ -39,7 +39,7 @@ Tahapan dari proyek ini yaitu:
 
 # [Proyek Practicum 5: Analisis Game yang Memiliki Potensi untuk Berhasil](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project-5)
 
-Tujuan dari proyek ini yaitu untuk menentukan jenis games seperti apa yang akan berpotensi untung menguntungkan di tahun 2017 dan menguji hipotesis berikut ini:
+Tujuan dari proyek ini yaitu untuk menentukan jenis games seperti apa yang akan berpotensi untuk menguntungkan di tahun 2017 dan menguji hipotesis berikut ini:
 
 - Rata-rata rating pengguna platform Xbox One dan PC adalah sama.
 - Rata-rata rating pengguna genre Action dan Sports berbeda.
