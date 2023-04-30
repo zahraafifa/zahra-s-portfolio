@@ -2,7 +2,7 @@
 
 # Tujuan:
 
-Tujuan dari proyek ini yaitu untuk menentukan jenis games seperti apa yang akan berpotensi untung menguntungkan di tahun 2017 
+Tujuan dari proyek ini yaitu untuk menentukan jenis games seperti apa yang akan berpotensi untuk menguntungkan di tahun 2017 
 
 # Hipotesis yang diuji: 
 
