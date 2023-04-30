@@ -1,41 +1,35 @@
-# zahra-s-portfolio
+# Proyek Practicum 5: Analisis Game yang Memiliki Potensi untuk Berhasil
 
-# [Proyek Practicum 1: Membandingkan preferensi musik di Springfield dan Shelbyville](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project---1)
+# Tujuan:
 
-Proyek ini merupakan proyek pertama dalam Bootcamp Practicum. Tujuan dari proyek ini adalah mengetahui preferensi musik di Springfield dan Shelbyville.
+Tujuan dari proyek ini yaitu untuk menentukan jenis games seperti apa yang akan berpotensi untung menguntungkan di tahun 2017 
 
-- Data telah disediakan oleh Practicum
-- Library yang digunakan : pandas
-- Terdapat 3 tahapan dalam proyek ini yaitu: Ikhtisar data, Pra-pemrosesan data, dan kesimpulan
+# Hipotesis yang diuji: 
 
-# [Proyek Practicum 2: Menganalisis Risiko Gagal Bayar Nasabah Bank](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project---2)
+- Rata-rata rating pengguna platform Xbox One dan PC adalah sama.
+- Rata-rata rating pengguna genre Action dan Sports berbeda.
 
-Tujuan dari proyek ini yaitu untuk mengetahui pengaruh faktor apa saja yang berpengaruh terhadap probabilitas gagal bayar dalam pelunasan pinjaman. 
+# Data:
 
-- Data telah disediakan oleh Practicum
-- Pra-pemrosesan data dilakukan dengan library pandas
-- Terdapat 3 tahapan dalam proyek ini yaitu: Ikhtisar data, Pra-pemrosesan data, dan kesimpulan
+— Name (nama)
+— Platform
+— Year_of_Release (tahun rilis)
+— Genre
+— NA_sales (penjualan di Amerika Utara dalam satuan juta USD)
+— EU_sales (penjualan di Eropa dalam satuan juta USD)
+— JP_sales (penjualan di Jepang dalam satuan juta USD)
+— Other_sales (penjualan di negara lainnya dalam satuan juta USD)
+— Critic_Score (skor ulasan dari kritikus, maksimal 100)
+— User_Score (skor ulasan dari pengguna, maksimal 10)
+— Rating (ESRB)
 
-# [Proyek Practicum 3: Faktor Apa Saja Yang Menjual Sebuah Mobil](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project---3)
+# Libraries:
 
-Tujuan dari proyek ini yaitu untuk mengetahui apa saja faktor yang mempengaruhi harga dari kendaraan melalui eksplorasi data analisis dan visualisasi data.
+matplotlib, pandas, seaborn, numpy, scipy
 
-- Data telah disediakan oleh Practicum
-- Pra-pemrosesan data dilakukan dengan library matplotlib dan pandas
-- Terdapat 4 tahapan dalam proyek ini yaitu: Ikhtisar data, pemrosesan data, eksplorasi data analisis, dan kesimpulan
+# Tahapan:
 
-# [Proyek Practicum 4: Paket Prabayar Manakah yang Lebih Menguntungkan](https://github.com/zahraafifa/zahra-s-portfolio/tree/Practicum-Project-4)
-
-Tujuan dari proyek ini yaitu untuk menganalisis perilaku para pengguna, lalu menentukan paket prabayar manakah yang lebih menguntungkan dan menguji hipotesis berikut ini:
-- Rata-rata pendapatan dari pengguna paket telepon Ultimate dan Surf berbeda.
-- Rata-rata pendapatan dari pengguna di wilayah NY-NJ berbeda dengan pendapatan pengguna dari wilayah lain.
-
-Library yang digunakan : pandas, matplotlib, numpy, seaborn, scipy
-
-Tahapan dari proyek ini yaitu:
 1. Pra-Pemrosesan Data
 2. Eksplorasi Data Analisis
 3. Analisis Data Statistik
-
-
-
+4. Kesimpulan
