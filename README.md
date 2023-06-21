@@ -65,7 +65,6 @@ Tujuan dari analisis ini untuk membantu mengoptimalkan anggaran biaya pemasaran 
 - Bagaimana para pengguna menggunakan produk Y.Afisha?
 - Kapan mereka mulai melakukan pembelian?
 - Berapa jumlah uang yang disumbangkan oleh setiap pengguna?
-- Kapan semua biaya pemasaran terbayarkan?
 
 Library yang digunakan : pandas, matplotlib, numpy, seaborn
 
