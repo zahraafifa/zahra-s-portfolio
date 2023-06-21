@@ -48,7 +48,7 @@ Tahapan dari proyek ini yaitu:
 2. Eksplorasi Data Analisis
 3. Analisis Data Statistik
 
-# [Proyek TripleTen 6: Analisis Data Ride Sharing Zuber](http)
+# [Proyek TripleTen 6: Analisis Data Ride Sharing Zuber](https://github.com/zahraafifa/zahra-s-portfolio/tree/TripleTen-Project-6)
 
 Tujuan dari analisis ini untuk menemukan pola pada informasi yang tersedia untuk memahami preferensi penumpang dan dampak faktor eksternal terhadap perjalanan. Kita akan mempelajari basis data, menganalisis data dari kompetitor, dan menguji hipotesis tentang pengaruh cuaca terhadap frekuensi perjalanan.
 
