@@ -59,3 +59,16 @@ Tahapan dari proyek ini yaitu:
 2. Eksplorasi Data Analisis
 3. Analisa Data Statistik
 
+# [Proyek TripleTen 7: Analisis Bisnis Y.Afisha](https://github.com/zahraafifa/zahra-s-portfolio/tree/TripleTen-Project-7)
+
+Tujuan dari analisis ini untuk membantu mengoptimalkan anggaran biaya pemasaran dengan menjawab pertanyaan berikut ini:
+- Bagaimana para pengguna menggunakan produk Y.Afisha?
+- Kapan mereka mulai melakukan pembelian?
+- Berapa jumlah uang yang disumbangkan oleh setiap pengguna?
+- Kapan semua biaya pemasaran terbayarkan?
+
+Library yang digunakan : pandas, matplotlib, numpy, seaborn
+
+Tahapan dari proyek ini yaitu:
+1. Pra-Pemrosesan Data
+2. Eksplorasi Data Analisis
