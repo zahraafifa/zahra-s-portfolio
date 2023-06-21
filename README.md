@@ -4,7 +4,6 @@
 
 Proyek ini merupakan proyek pertama dalam Bootcamp Practicum. Tujuan dari proyek ini adalah mengetahui preferensi musik di Springfield dan Shelbyville.
 
-- Data telah disediakan oleh Practicum
 - Library yang digunakan : pandas
 - Terdapat 3 tahapan dalam proyek ini yaitu: Ikhtisar data, Pra-pemrosesan data, dan kesimpulan
 
@@ -12,7 +11,6 @@ Proyek ini merupakan proyek pertama dalam Bootcamp Practicum. Tujuan dari proyek
 
 Tujuan dari proyek ini yaitu untuk mengetahui pengaruh faktor apa saja yang berpengaruh terhadap probabilitas gagal bayar dalam pelunasan pinjaman. 
 
-- Data telah disediakan oleh Practicum
 - Pra-pemrosesan data dilakukan dengan library pandas
 - Terdapat 3 tahapan dalam proyek ini yaitu: Ikhtisar data, Pra-pemrosesan data, dan kesimpulan
 
@@ -20,7 +18,6 @@ Tujuan dari proyek ini yaitu untuk mengetahui pengaruh faktor apa saja yang berp
 
 Tujuan dari proyek ini yaitu untuk mengetahui apa saja faktor yang mempengaruhi harga dari kendaraan melalui eksplorasi data analisis dan visualisasi data.
 
-- Data telah disediakan oleh Practicum
 - Pra-pemrosesan data dilakukan dengan library matplotlib dan pandas
 - Terdapat 4 tahapan dalam proyek ini yaitu: Ikhtisar data, pemrosesan data, eksplorasi data analisis, dan kesimpulan
 
@@ -50,4 +47,15 @@ Tahapan dari proyek ini yaitu:
 1. Pra-Pemrosesan Data
 2. Eksplorasi Data Analisis
 3. Analisis Data Statistik
+
+# [Proyek TripleTen 6: Analisis Data Ride Sharing Zuber](http)
+
+Tujuan dari analisis ini untuk menemukan pola pada informasi yang tersedia untuk memahami preferensi penumpang dan dampak faktor eksternal terhadap perjalanan. Kita akan mempelajari basis data, menganalisis data dari kompetitor, dan menguji hipotesis tentang pengaruh cuaca terhadap frekuensi perjalanan.
+
+Library yang digunakan : pandas, matplotlib, numpy, seaborn, scipy
+
+Tahapan dari proyek ini yaitu:
+1. Pra-Pemrosesan Data
+2. Eksplorasi Data Analisis
+3. Analisa Data Statistik
 
