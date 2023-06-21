@@ -6,7 +6,6 @@ Menganalisis data untuk membantu mengoptimalkan anggaran biaya pemasaran dengan 
 - Bagaimana para pengguna menggunakan produk Y.Afisha?
 - Kapan mereka mulai melakukan pembelian?
 - Berapa jumlah uang yang disumbangkan oleh setiap pengguna?
-- Kapan semua biaya pemasaran terbayarkan?
 
 # Data :
 
