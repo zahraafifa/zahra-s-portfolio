@@ -71,3 +71,15 @@ Library yang digunakan : pandas, matplotlib, numpy, seaborn
 Tahapan dari proyek ini yaitu:
 1. Pra-Pemrosesan Data
 2. Eksplorasi Data Analisis
+
+# [Proyek TripleTen 8: Analisis Data Toko Daring untuk Meningkatkan Pendapatan Menggunakan A/B Testing(https://github.com/zahraafifa/zahra-s-portfolio/tree/TripleTen-Project-8)
+
+Tujuan :
+Memprioritaskan hipotesis dan menjalankan uji A/B untuk mengetahui apakah hipotesis tersebut dapat meningkatkan pendapatan toko daring
+
+Library yang digunakan : pandas, matplotlib, numpy, seaborn, scipy
+
+Tahapan dari proyek ini yaitu:
+1. Pra-Pemrosesan Data
+2. Eksplorasi Data Analisis
+3. Analisa Data Statistik
